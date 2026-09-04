@@ -15,4 +15,4 @@ The dashboard includes three bar charts: "Average Price by Neighbourhood" which 
 
 ## Note
 The methodology was based on the project "Full Beginner Project in Tableau" by Alex the Analyst. His tutorials have really helped me learn data analytics, so big thanks to him. I adapted the project here to use Athens data instead.
-@AlexTheAnalyst
+[@AlexTheAnalyst](https://github.com)
